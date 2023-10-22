@@ -1,0 +1,22 @@
+[
+    {
+        "name": "BMW",
+        "imageUrl": "https://th.bing.com/th/id/R.11c17a8cffdce4bc047102db49a94a51?rik=YMKOe232a1ee3w&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f02%2fBMW_logo_big_transparent_png.png&ehk=AhLghiJcc6OJgtYYdNOiiM061S%2fa11BCNRbBYQtUBjI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes",
+        "imageUrl": "https://cdn.wallpapersafari.com/34/43/scCMaL.jpeg"
+    },
+    {
+        "name": "Mazda",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/1200px-Mazda_logo_with_emblem.svg.png"
+    },
+    {
+        "name": "Nissan",
+        "imageUrl": "https://th.bing.com/th/id/R.0e028bdc59391493894e0c97aac31208?rik=rNDUk3VxR4Io5w&riu=http%3a%2f%2f2.bp.blogspot.com%2f-Qd8ayYmXMr8%2fUNnc8liJ59I%2fAAAAAAAAG08%2fR_sxZdA1kvQ%2fs1600%2fNissan%2bLogo%2b5.png&ehk=uJf20IIFc1oDSXOJW0TM7VIL4HASErDZkbUwpZlh3hk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda",
+        "importUrl": "https://th.bing.com/th/id/R.cb7fdf3927563cd9b8a4ff4ea68f8733?rik=DNfzgvrHfH5NoA&riu=http%3a%2f%2fwww.car-brand-names.com%2fwp-content%2fuploads%2f2015%2f05%2fHonda-emblem-2.jpg&ehk=a8buKmJq6pAe2TSkLP6iTlCrdXtp9YFtQUfxBjQ63bo%3d&risl=&pid=ImgRaw&r=0"
+    }
+]

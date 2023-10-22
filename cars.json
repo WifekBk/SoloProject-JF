@@ -1,0 +1,75 @@
+[
+    {
+      "name": "BMW X5",
+      "engine": "V6",
+      "imageUrl": "https://media.ed.edmunds-media.com/bmw/x5/2017/oem/2017_bmw_x5_4dr-suv_xdrive40e-iperformance_fq_oem_2_1280.jpg",
+      "horsePower": 350,
+      "categories": "SUV"
+    },
+    {
+      "name": "Mercedes-Benz E-Class",
+      "engine": "V6",
+      "imageUrl": "https://th.bing.com/th/id/OIP.64iTJcQwPLkqeSZnXy8XygHaE7?pid=ImgDet&rs=1",
+      "horsePower": 320,
+      "categories": "Sedan"
+    },
+    {
+      "name": "Mazda CX-5",
+      "engine": "Inline-4",
+      "imageUrl": "https://mediacloud.carbuyer.co.uk/image/private/s--7IFT7M7Q--/v1579610537/carbuyer/mazda_cx-5_1.jpg",
+      "horsePower": 187,
+      "categories": "SUV"
+    },
+    {
+      "name": "Nissan Altima",
+      "engine": "V4",
+      "imageUrl": "https://th.bing.com/th/id/R.8ee8f91d10479ab39af4c561db5b940c?rik=HJYrT40eHci4Jg&riu=http%3a%2f%2fcarleaseoffers-clo.com%2fwp-content%2fuploads%2f2018%2f02%2fCar-Lease-Offers-CLO-Nissan-Altima_SR-2016-1280-05.jpg&ehk=h2ZoWO9SttV%2f44iZW1iYPbBr6iPxjHtmXydllOrUcRQ%3d&risl=&pid=ImgRaw&r=0",
+      "horsePower": 188,
+      "categories": "Sedan"
+    },
+    {
+      "name": "Honda Civic",
+      "engine": "Inline-4",
+      "imageUrl": "https://www.automobilemag.com/uploads/sites/11/2015/10/2016-Honda-Civic-Sedan-front-three-quarter-in-motion-02.jpg",
+      "horsePower": 158,
+      "categories": "Sedan"
+    },
+    {
+      "name": "BMW 3 Series",
+      "engine": "Inline-4",
+      "imageUrl": "https://th.bing.com/th/id/R.a9f5c90f6777e3b57cad78d846c5a870?rik=tFHARFNk17JQbw&riu=http%3a%2f%2fcdn.carbuzz.com%2fgallery-images%2f1600%2f692000%2f700%2f692764.jpg&ehk=E9E0lPErazehCBSsiOjDDGrYb%2fdtQc1EZzhsCfFiph4%3d&risl=&pid=ImgRaw&r=0",
+      "horsePower": 255,
+      "categories": "Luxury"
+    },
+    {
+      "name": "Mercedes-Benz GLE",
+      "engine": "V6",
+      "imageUrl": "https://th.bing.com/th/id/OIP.h1oyeDepr7XkCae7kWAOAQHaEK?pid=ImgDet&rs=1",
+      "horsePower": 362,
+      "categories": "Luxury"
+    },
+    {
+      "name": "Mazda MX-5 Miata",
+      "engine": "Inline-4",
+      "imageUrl": "https://th.bing.com/th/id/OIP.Bwp8DL6PiwRD0MDha5z6-gHaE7?pid=ImgDet&rs=1",
+      "horsePower": 181,
+      "categories": "Sport"
+    },
+    {
+      "name": "Nissan Rogue",
+      "engine": "Inline-4",
+      "imageUrl": "https://blog.mysanantonio.com/drive/files/2016/11/2017-Nissan-Rogue-1.jpg",
+      "horsePower": 170,
+      "categories": "SUV"
+    },
+    {
+      "name": "Honda CR-V",
+      "engine": "Inline-4",
+      "imageUrl": "https://driverbase.com/company/wp-content/uploads/2019/04/2020-Honda-CRV-SUV-at-the-2019-New-York-Auto-Show-132-of-356.png",
+      "horsePower": 190,
+      "categories": "SUV"
+    }
+  ]
+  
+  
+  
